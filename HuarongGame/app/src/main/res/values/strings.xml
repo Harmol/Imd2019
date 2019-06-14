@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">华容道</string>
+    <string name="round_text1">一步之遥</string>
+    <string name="round_text2">横刀立马（经典）</string>
+    <string name="round_text3">齐头并进</string>
+    <string name="round_text4">兵分三路</string>
+    <string name="round_text5">左右布兵</string>
+</resources>
